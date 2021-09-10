@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Sonaiofficial
 - 👀 I’m interested in Software engineering
-- 🌱 I’m currently learning Java, MEERN stack Developing
+- 👩‍💻 Language Proficiency in C & Java
+- 🌱 I’m currently learning BACKEND(with Node.js) Developing
 - 💞️ I’m looking to collaborate on good techers and friends for get my knowledge gain in coding
 - 📫 How to reach me in facebook https://m.facebook.com/sonai.barua.77
  
