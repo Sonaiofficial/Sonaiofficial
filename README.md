@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software engineering
 - 👩‍💻 Language Proficiency in C & Java
 - 🌱 I’m currently learning BACKEND(with Node.js) Developing
-- 💞️ I’m looking to collaborate on good techers and friends for get my knowledge gain in coding
+- 💞️ I’m looking for a organization to learn how to learn new Technologies in an Industrial Environment
 - 📫 How to reach me in facebook https://m.facebook.com/sonai.barua.77
 - 📫 How to reach me in LinkedIn https://www.linkedin.com/in/sonai-barua-0268021b5/
  
