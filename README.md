@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sonaiofficial
 - 👀 I’m interested in Software engineering
 - 👩‍💻 Language Proficiency in C & Java
-- 🌱 I’m currently Intern on MERN stack.
+- 🌱 I’m currently in a training on MERN stack.
 - 💞️ I’m looking for a organization to start my career.
 - 📫 How to reach me in facebook https://m.facebook.com/sonai.barua.77
 - 📫 How to reach me in LinkedIn https://www.linkedin.com/in/sonai-barua-0268021b5/
